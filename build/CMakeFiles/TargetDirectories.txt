@@ -1,0 +1,3 @@
+/home/danna/Desktop/MyMuduo/build/CMakeFiles/rebuild_cache.dir
+/home/danna/Desktop/MyMuduo/build/CMakeFiles/mymuduo.dir
+/home/danna/Desktop/MyMuduo/build/CMakeFiles/edit_cache.dir
